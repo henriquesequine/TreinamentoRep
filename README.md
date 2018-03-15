@@ -1,6 +1,3 @@
-Este repositori serve de exemplo para o curo de Git da Udemy para o Suport/PmWeb.
+Aqui sou eu que mando e por isso foi colocar uma foto muito louca.
 
-<p align="center">
-  <img src="C:\Users\henrique.sequine\Treinamento\Deadpool.jpg">
-  
-</p>
+![Alt Text](<blockquote class="imgur-embed-pub" lang="en" data-id="ttYKxex"><a href="//imgur.com/ttYKxex">Best Bromance</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
